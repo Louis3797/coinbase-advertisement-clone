@@ -45,4 +45,4 @@ Louis
 
 Project Link: [coinbase-advertisement-clone](https://github.com/Louis3797/coinbase-advertisement-clone)
 
-[screenshot]: assets\screenshot.png
+[screenshot]: https://github.com/Louis3797/coinbase-advertisement-clone/blob/main/assets/screenshot.png
