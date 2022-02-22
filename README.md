@@ -10,7 +10,7 @@
     This is a clone of the coinbase superbowl commercial
   </p>
     <br />
-    
+
 <img alt="coinbase logo" src="https://cdn.worldvectorlogo.com/logos/coinbase-1.svg" height="50">
 
 <br />
@@ -45,4 +45,4 @@ Louis
 
 Project Link: [coinbase-advertisement-clone](https://github.com/Louis3797/coinbase-advertisement-clone)
 
-[screenshot]: assets/screenshot.png
+[screenshot]: assets\screenshot.png
