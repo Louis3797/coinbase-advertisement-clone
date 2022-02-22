@@ -20,7 +20,7 @@
 
 ## About the project
 
-![homescreen][screenshot]
+![screenshot][screenshot]
 
 This project is inspired by [Leigh Halliday](https://www.youtube.com/watch?v=Zjnn4twRtXU)
 
