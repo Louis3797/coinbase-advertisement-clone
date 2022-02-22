@@ -8,6 +8,10 @@
 
   <p align="center">
     This is a clone of the coinbase superbowl commercial
+    <br />
+    <a href="https://louis3797.github.io/coinbase-advertisement-clone">View Demo</a>
+    ·
+    <a href="https://github.com/Louis3797/coinbase-advertisement-clone/issues">Report Bug</a>
   </p>
     <br />
 
