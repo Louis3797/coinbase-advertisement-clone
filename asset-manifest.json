@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coinbase-advertisement-clone/static/css/main.33352e42.css",
+    "main.js": "/coinbase-advertisement-clone/static/js/main.41f32275.js",
+    "static/js/787.b73aea12.chunk.js": "/coinbase-advertisement-clone/static/js/787.b73aea12.chunk.js",
+    "index.html": "/coinbase-advertisement-clone/index.html",
+    "main.33352e42.css.map": "/coinbase-advertisement-clone/static/css/main.33352e42.css.map",
+    "main.41f32275.js.map": "/coinbase-advertisement-clone/static/js/main.41f32275.js.map",
+    "787.b73aea12.chunk.js.map": "/coinbase-advertisement-clone/static/js/787.b73aea12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33352e42.css",
+    "static/js/main.41f32275.js"
+  ]
+}
